@@ -1,1 +1,1 @@
-# wikipedia_search
+English Wikipedia [API](https://www.mediawiki.org/wiki/API:Main_page)
